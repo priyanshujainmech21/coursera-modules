@@ -1,0 +1,52 @@
+* {
+	box-sizing: border-box;
+}
+h1 {
+	text-align: center;
+	color: red;
+}
+div {
+	border: 1px solid black;
+	margin: 0.2% 0.2% 0.2% 0.2%;
+	padding: 0px 0px 0px 5px;
+	width: 250px;
+	height: 100px;
+	background-color: grey;
+
+}
+.p1 {
+	box-sizing: border-box;
+	border: 1px solid black;
+	margin: 0px 0px 5px 0px;
+	position: relative;
+	width: 100px;
+	float: right;
+	overflow: auto;
+	color: blue;
+	background-color: skyblue;
+
+}
+.p2 {
+	box-sizing: border-box;
+	border: 1px solid black;
+	margin: 0px 0px 5px 0px;
+	position: relative;
+	width: 100px;
+	float: right;
+	overflow: auto;
+	color: yellow;
+	background-color: green;
+
+}
+.p3 {
+	box-sizing: border-box;
+	border: 1px solid black;
+	margin: 0px 0px 5px 0px;
+	position: relative;
+	width: 100px;
+	float: right;
+	overflow: auto;
+	color: red;
+	background-color: lightgreen;
+
+}
